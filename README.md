@@ -1,3 +1,3 @@
-Hi!
+ # berkay
 
-I make silly projects with Python.
+merhaba! go öğrenmek istiyorum. python bildiğime pişmanım. python öğrenmek isteyen aklımı si...
