@@ -1,3 +1,5 @@
  # berkay
 
-merhaba! go öğrenmek istiyorum. python bildiğime pişmanım. python öğrenmek isteyen aklımı si...
+merhaba! go öğrenmek istiyorum. python bildiğime pişmanım.
+
+repolarımı görmek için [nothing co.](https://github.com/nothing-co) organizasyonuna bakabilirsiniz.
